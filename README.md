@@ -188,21 +188,6 @@ npm run start        # Start production server
 npm run lint         # Run ESLint
 ```
 
-## 🚢 Deployment
-
-This project is deployed on **Vercel**:
-
-**Live URL**: [https://v0-e-commerce-storefront-five.vercel.app/](https://v0-e-commerce-storefront-five.vercel.app/)
-
-### Deploy Your Own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mohammedmudassir-07/Ecom_web)
-
-1. Click the "Deploy" button above
-2. Sign in to Vercel
-3. Follow the deployment wizard
-4. Your app will be live in minutes!
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -241,9 +226,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Radix UI](https://www.radix-ui.com/) - Headless UI primitives
 - [Tailwind CSS](https://tailwindcss.com/) - Styling framework
 
-## 📧 Support
-
-For support, email mohammedmudassir07@example.com or open an issue in the GitHub repository.
 
 ## 🔄 Project Status
 
