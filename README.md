@@ -211,12 +211,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**Mohammed Mudassir**
-
-- GitHub: [@mohammedmudassir-07](https://github.com/mohammedmudassir-07)
-
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React Framework
