@@ -219,12 +219,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [shadcn/ui](https://ui.shadcn.com/) - UI components
 - [Radix UI](https://www.radix-ui.com/) - Headless UI primitives
 - [Tailwind CSS](https://tailwindcss.com/) - Styling framework
-
-
-## 🔄 Project Status
-
-This project is actively maintained and open for contributions. Feel free to report issues or suggest new features!
-
 ---
 
 **Built with ❤️ using Next.js and TypeScript**
